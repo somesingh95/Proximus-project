@@ -1,0 +1,48 @@
+.container{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    min-height: 35px;
+    flex-direction: row;
+    border: 3px solid #0000;
+    cursor: pointer;
+    width: 100%;
+    background-color: lightblue;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-top: 0.5rem;
+    padding-right: 5rem;
+}
+.imageContainer{
+    width: 30px;
+    height: 25px;
+    padding-left: 1%;
+}
+.activeImage{
+    width: 20px;
+    height: 20px;
+}
+.deviceTextContainer{
+    width: 60%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 2%;
+}
+.deviceNameText{
+    font-size: larger;
+    font-family: "Helvetica";
+    color: green;
+}
+.editContainer{
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+.iconContainer{
+    width: 60px;
+    cursor: pointer;
+}

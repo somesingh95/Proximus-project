@@ -1,0 +1,12 @@
+.headerContainer{
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    width: 100%;
+    
+}
+.headerText{
+    font-family: 'Helvetica';
+    font-size: xx-large;
+    font-weight: bold;
+}

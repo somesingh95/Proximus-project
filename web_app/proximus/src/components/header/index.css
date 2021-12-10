@@ -1,0 +1,12 @@
+.headerContainer{
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    
+}
+.headerText{
+    font-family: 'Helvetica';
+    font-size: xx-small;
+    font-weight: bolder;
+    color: green;
+}

@@ -1,0 +1,24 @@
+.formcontainer{
+    padding-left: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.addDeviceText{
+    font-size: x-large;
+    font-family: 'Helvetica';
+}
+
+.buttonContainer{
+    margin: 10px;
+    
+ }
+ .actionContainer{
+     display: flex;
+     flex-direction: row;
+     align-items: flex-start;
+     justify-content: center;
+     width: 25%;
+ }

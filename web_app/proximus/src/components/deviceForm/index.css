@@ -1,0 +1,32 @@
+.deviceContainer{
+   width: 100%;
+   
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
+.platformText{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 20%;
+}
+.textInputContainer{
+ display: flex;
+ flex-direction: row;
+ margin-top: 15px;
+ margin-bottom: 15px;
+ width: 20%;
+ 
+}
+.switchContainer{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 20%;
+    margin-bottom: 2%;
+}
+.switchLabel{
+    margin-right: 3%;
+}
